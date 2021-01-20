@@ -1,2 +1,2 @@
-# prueba-sinensia
-Ejercicio en el curso de formación
+# Ejercicios Git
+> Este será un repositorio de ejemplo
